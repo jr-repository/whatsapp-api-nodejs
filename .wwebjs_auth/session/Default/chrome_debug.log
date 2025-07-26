@@ -1,13 +1,372 @@
-[0726/061353.288:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
-[0726/061356.688:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
-[0726/061356.688:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
-[0726/061356.688:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'compute-pressure'.", source:  (0)
-[0726/061356.688:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
-[0726/061356.688:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-issuance'.", source:  (0)
-[0726/061356.689:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'shared-storage'.", source:  (0)
-[0726/061356.689:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.", source:  (0)
-[0726/061356.689:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-redemption'.", source:  (0)
-[0726/061356.689:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
-[0726/061356.689:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
-[0726/061356.689:INFO:CONSOLE(0)] "Document-Policy HTTP header: Unrecognized document policy feature name include-js-call-stacks-in-crash-reports.", source: https://web.whatsapp.com/ (0)
-[0726/061417.567:INFO:CONSOLE(163)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/y0/r/7U9r770YDZO.js (163)
+[0726/102721.730:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[0726/102722.460:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0726/102722.461:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
+[0726/102722.461:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'compute-pressure'.", source:  (0)
+[0726/102722.461:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0726/102722.462:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-issuance'.", source:  (0)
+[0726/102722.463:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'shared-storage'.", source:  (0)
+[0726/102722.463:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.", source:  (0)
+[0726/102722.463:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-redemption'.", source:  (0)
+[0726/102722.463:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0726/102722.463:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0726/102722.463:INFO:CONSOLE(0)] "Document-Policy HTTP header: Unrecognized document policy feature name include-js-call-stacks-in-crash-reports.", source: https://web.whatsapp.com/ (0)
+[0726/102722.768:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102722.768:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102722.969:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102722.969:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102722.976:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102722.976:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102723.273:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102723.362:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102723.938:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102723.958:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102724.003:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102726.697:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102726.872:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102727.002:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102727.205:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102727.733:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102727.892:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102728.054:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102728.056:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102728.448:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102728.448:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102730.450:INFO:CONSOLE(8)] "Uncaught NetworkError: Failed to execute 'importScripts' on 'WorkerGlobalScope': The script at 'https://static.whatsapp.net/rsrc.php/v4/yp/r/_tnGQDaY9jg.js' failed to load.", source: https://web.whatsapp.com/sw.js (8)
+[0726/102730.450:INFO:CONSOLE(0)] "Failed to access storage.", source:  (0)
+[0726/102730.582:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102730.582:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102730.582:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102739.919:ERROR:disk_data_allocator.cc(176)] DISK: Cannot write to disk. written = -1 FILE_ERROR_FAILED
+[0726/102739.919:ERROR:disk_data_allocator.cc(176)] DISK: Cannot write to disk. written = -1 FILE_ERROR_FAILED
+[0726/102740.036:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102740.036:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102749.193:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102749.193:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102749.193:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Ampps\www\whatsapp-api-nodejs\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,Corruption: checksum mismatch
+[0726/102749.480:ERROR:indexed_db_factory_impl.cc(844)] IndexedDB recovering from a corrupted (and deleted) database.
+[0726/102749.921:INFO:CONSOLE(150)] "Uncaught (in promise) [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yB/r/XWXchw_sM2I.js (150)
+[0726/102751.187:INFO:CONSOLE(150)] "Uncaught (in promise) [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yB/r/XWXchw_sM2I.js (150)
+[0726/102752.568:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102752.568:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102752.976:INFO:CONSOLE(150)] "Uncaught (in promise) [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yB/r/XWXchw_sM2I.js (150)
+[0726/102753.397:WARNING:backend_impl.cc(1620)] Messed up entry found.
+[0726/102753.397:WARNING:backend_impl.cc(1816)] Destroying invalid entry.
+[0726/102753.570:INFO:CONSOLE(150)] "Uncaught (in promise) [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yB/r/XWXchw_sM2I.js (150)
+[0726/102753.570:INFO:CONSOLE(150)] "Uncaught (in promise) [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yB/r/XWXchw_sM2I.js (150)
+[0726/102753.584:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.585:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.585:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.585:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.597:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.597:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.630:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.630:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.648:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.649:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.657:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.704:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.705:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.763:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.763:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.773:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.774:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.782:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.782:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.803:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.803:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.804:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.804:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.804:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.804:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.804:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.805:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.806:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.806:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.806:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.806:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.831:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.831:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.831:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.831:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.832:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.832:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.833:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.833:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.833:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.833:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.834:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.834:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.868:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.899:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.899:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.901:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.902:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.951:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.952:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.952:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.952:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.952:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.954:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.955:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.955:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.955:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102753.955:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.004:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.005:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.005:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.005:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.025:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.026:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.026:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.026:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.048:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.048:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.048:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.050:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.051:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.052:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.053:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.053:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.105:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.105:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.105:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.106:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.106:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.106:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.189:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.190:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.191:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.191:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.192:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.193:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.196:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.197:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.197:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.198:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.198:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.199:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.264:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.267:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.267:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.268:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.268:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.269:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.269:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.270:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.286:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.288:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.288:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.289:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.399:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.463:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.564:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.565:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.699:INFO:CONSOLE(0)] "Uncaught (in promise) [object Object]", source: https://web.whatsapp.com/ (0)
+[0726/102754.724:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.729:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.730:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.730:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.731:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.731:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.732:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.734:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.734:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.735:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.735:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.736:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.737:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.737:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.738:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.739:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.739:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.739:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.740:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.740:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.741:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.754:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.756:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.759:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.759:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.759:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.760:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.760:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.760:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.760:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.763:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.763:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.765:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.765:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.766:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.766:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.766:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.767:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.768:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.768:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.769:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.769:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.769:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.770:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.770:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.770:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.847:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.847:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.847:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.847:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.929:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102754.930:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.118:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.118:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.119:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.119:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.119:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.120:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.121:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.165:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.179:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.180:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.180:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.180:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.180:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.181:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.183:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.184:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.184:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.187:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.187:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.187:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.187:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.187:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.187:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.188:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.188:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.188:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.230:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.230:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.272:INFO:CONSOLE(150)] "Uncaught (in promise) [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yB/r/XWXchw_sM2I.js (150)
+[0726/102755.275:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.275:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.275:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.275:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.276:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.276:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.306:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.307:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.307:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.307:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.308:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.311:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.587:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.588:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.588:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.588:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.617:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.617:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.729:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.729:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.729:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.731:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.731:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.731:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.732:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.732:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.732:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.733:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.733:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.756:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.757:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.757:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.804:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.804:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.830:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.835:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.836:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.836:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.836:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.837:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.837:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.837:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.838:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.838:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.838:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.838:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.839:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.839:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.839:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.839:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.839:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.839:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.840:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.840:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.840:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.846:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.846:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.846:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.847:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.847:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.847:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.847:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.847:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.863:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.863:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.863:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.864:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.873:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.873:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.874:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.874:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.892:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.894:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.894:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.895:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.895:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.895:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.895:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.895:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.899:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.899:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.901:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.901:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.901:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.901:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.902:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.902:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.902:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.903:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.905:ERROR:backend_impl.cc(754)] Unable to create file: -8
+[0726/102755.905:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.905:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.906:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.907:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.907:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.921:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.921:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.922:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.922:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.929:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.930:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.936:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.936:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.937:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.938:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.938:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.940:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.946:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.947:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.950:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.952:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.953:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.953:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.961:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.961:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.975:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.976:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.983:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.984:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.988:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.990:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.992:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102755.992:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102756.021:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102756.021:ERROR:entry_impl.cc(995)] Failed to save user data
+[0726/102812.588:ERROR:simple_index_file.cc(322)] Failed to write the temporary index file
+[0726/102818.044:INFO:CONSOLE(150)] "Uncaught (in promise) [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yB/r/XWXchw_sM2I.js (150)
